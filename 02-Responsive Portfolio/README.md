@@ -4,5 +4,5 @@ This project contains 4 web pages.  An about me page;(This has a picture of me a
 
 https://dritchie3.github.io/homework/02-Responsive%20Portfolio/index.html for live version
 
-https://github.com/Dritchie3/homework/tree/master/02-Responsive%20Portfolio 
+https://github.com/dritchie3/homework/tree/master/02-Responsive%20Portfolio 
 for github repository
